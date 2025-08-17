@@ -15,12 +15,6 @@ public class MedicineController {
 
     @Autowired
     private MedicineService medicineService;
-    
-    @GetMapping("/")
-    public String home() 
-    {
-        return "Jenkins Full Stack Deployment Demo";
-    }
 
     @PostMapping("/add")
     public ResponseEntity<Medicine> addMedicine(@RequestBody Medicine medicine) {
