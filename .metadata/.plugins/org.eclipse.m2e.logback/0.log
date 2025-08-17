@@ -1,0 +1,238 @@
+2025-08-17 15:44:11,334 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-08-17 15:49:10,261 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.klef:MD-SPRINGBOOT:0.0.1-SNAPSHOT @ C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\pom.xml.
+2025-08-17 15:49:11,212 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MD-SPRINGBOOT/src/main/java
+2025-08-17 15:49:11,215 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MD-SPRINGBOOT/src/main/resources
+2025-08-17 15:49:11,218 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MD-SPRINGBOOT/src/main/resources
+2025-08-17 15:49:11,222 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MD-SPRINGBOOT/src/test/java
+2025-08-17 15:49:11,222 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MD-SPRINGBOOT/src/test/resources
+2025-08-17 15:49:13,710 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2025-08-17 15:49:13,714 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-17 15:49:14,002 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.klef:MD-SPRINGBOOT:0.0.1-SNAPSHOT @ C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\pom.xml.
+2025-08-17 15:49:14,519 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MD-SPRINGBOOT/src/main/java
+2025-08-17 15:49:14,519 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MD-SPRINGBOOT/src/main/resources
+2025-08-17 15:49:14,520 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MD-SPRINGBOOT/src/main/resources
+2025-08-17 15:49:14,520 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MD-SPRINGBOOT/src/test/java
+2025-08-17 15:49:14,520 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MD-SPRINGBOOT/src/test/resources
+2025-08-17 15:49:15,582 [Worker-5: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MD-SPRINGBOOT
+2025-08-17 15:49:15,593 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-08-17 15:49:16,349 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 15:49:16,384 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 15:49:16,389 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 15:49:16,390 [Worker-31: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MD-SPRINGBOOT
+2025-08-17 15:49:16,392 [Worker-31: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MD-SPRINGBOOT
+2025-08-17 15:54:29,169 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 15:54:29,176 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 15:54:29,179 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 15:54:54,115 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 15:54:54,122 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 15:54:54,125 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 15:55:35,151 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 15:55:35,161 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 15:55:35,179 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 15:55:52,468 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 15:55:52,482 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 15:55:52,489 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 15:56:16,256 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 15:56:16,260 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 15:56:16,263 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 16:01:39,221 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.klef:MD-SPRINGBOOT:0.0.1-SNAPSHOT @ C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\pom.xml.
+2025-08-17 16:01:39,905 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/3.5.4/spring-boot-starter-data-jpa-3.5.4.pom
+2025-08-17 16:01:39,916 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/3.5.4/spring-boot-starter-data-jpa-3.5.4.pom
+2025-08-17 16:01:40,059 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/3.5.4/spring-boot-starter-jdbc-3.5.4.pom
+2025-08-17 16:01:40,062 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/3.5.4/spring-boot-starter-jdbc-3.5.4.pom
+2025-08-17 16:01:40,146 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/6.3.1/HikariCP-6.3.1.pom
+2025-08-17 16:01:40,180 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/6.3.1/HikariCP-6.3.1.pom
+2025-08-17 16:01:40,241 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/6.2.9/spring-jdbc-6.2.9.pom
+2025-08-17 16:01:40,249 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/6.2.9/spring-jdbc-6.2.9.pom
+2025-08-17 16:01:40,310 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.2.9/spring-tx-6.2.9.pom
+2025-08-17 16:01:40,317 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.2.9/spring-tx-6.2.9.pom
+2025-08-17 16:01:40,377 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/orm/hibernate-core/6.6.22.Final/hibernate-core-6.6.22.Final.pom
+2025-08-17 16:01:40,388 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/orm/hibernate-core/6.6.22.Final/hibernate-core-6.6.22.Final.pom
+2025-08-17 16:01:40,503 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/3.5.2/spring-data-jpa-3.5.2.pom
+2025-08-17 16:01:40,516 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/3.5.2/spring-data-jpa-3.5.2.pom
+2025-08-17 16:01:40,576 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa-parent/3.5.2/spring-data-jpa-parent-3.5.2.pom
+2025-08-17 16:01:40,580 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa-parent/3.5.2/spring-data-jpa-parent-3.5.2.pom
+2025-08-17 16:01:40,644 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-parent/3.5.2/spring-data-parent-3.5.2.pom
+2025-08-17 16:01:40,678 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-parent/3.5.2/spring-data-parent-3.5.2.pom
+2025-08-17 16:01:40,698 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/3.5.2/spring-data-build-3.5.2.pom
+2025-08-17 16:01:40,704 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/3.5.2/spring-data-build-3.5.2.pom
+2025-08-17 16:01:40,736 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/3.5.2/spring-data-commons-3.5.2.pom
+2025-08-17 16:01:40,741 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/3.5.2/spring-data-commons-3.5.2.pom
+2025-08-17 16:01:40,759 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/6.2.9/spring-orm-6.2.9.pom
+2025-08-17 16:01:40,764 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/6.2.9/spring-orm-6.2.9.pom
+2025-08-17 16:01:40,783 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/6.2.9/spring-aspects-6.2.9.pom
+2025-08-17 16:01:40,788 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/6.2.9/spring-aspects-6.2.9.pom
+2025-08-17 16:01:40,848 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/9.3.0/mysql-connector-j-9.3.0.pom
+2025-08-17 16:01:40,852 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/9.3.0/mysql-connector-j-9.3.0.pom
+2025-08-17 16:01:40,972 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/3.5.4/spring-boot-starter-data-jpa-3.5.4.jar
+2025-08-17 16:01:40,978 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/3.5.4/spring-boot-starter-data-jpa-3.5.4.jar
+2025-08-17 16:01:40,996 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/3.5.4/spring-boot-starter-jdbc-3.5.4.jar
+2025-08-17 16:01:41,001 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/3.5.4/spring-boot-starter-jdbc-3.5.4.jar
+2025-08-17 16:01:41,016 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/3.5.2/spring-data-commons-3.5.2.jar
+2025-08-17 16:01:41,019 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/6.2.9/spring-jdbc-6.2.9.jar
+2025-08-17 16:01:41,025 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/3.5.2/spring-data-jpa-3.5.2.jar
+2025-08-17 16:01:41,035 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/orm/hibernate-core/6.6.22.Final/hibernate-core-6.6.22.Final.jar
+2025-08-17 16:01:41,036 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/6.3.1/HikariCP-6.3.1.jar
+2025-08-17 16:01:41,164 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/6.3.1/HikariCP-6.3.1.jar
+2025-08-17 16:01:41,260 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/6.2.9/spring-orm-6.2.9.jar
+2025-08-17 16:01:41,595 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/6.2.9/spring-jdbc-6.2.9.jar
+2025-08-17 16:01:41,680 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.2.9/spring-tx-6.2.9.jar
+2025-08-17 16:01:41,705 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/6.2.9/spring-orm-6.2.9.jar
+2025-08-17 16:01:41,790 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/6.2.9/spring-aspects-6.2.9.jar
+2025-08-17 16:01:42,025 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/6.2.9/spring-aspects-6.2.9.jar
+2025-08-17 16:01:42,115 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/9.3.0/mysql-connector-j-9.3.0.jar
+2025-08-17 16:01:42,132 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/3.5.2/spring-data-commons-3.5.2.jar
+2025-08-17 16:01:42,159 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.2.9/spring-tx-6.2.9.jar
+2025-08-17 16:01:43,415 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/3.5.2/spring-data-jpa-3.5.2.jar
+2025-08-17 16:01:44,696 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/9.3.0/mysql-connector-j-9.3.0.jar
+2025-08-17 16:01:46,378 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/orm/hibernate-core/6.6.22.Final/hibernate-core-6.6.22.Final.jar
+2025-08-17 16:01:46,672 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 16:01:46,673 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 16:01:46,677 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 16:01:46,678 [Worker-39: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MD-SPRINGBOOT
+2025-08-17 16:01:46,678 [Worker-39: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MD-SPRINGBOOT
+2025-08-17 16:01:47,574 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/3.5.4/spring-boot-starter-data-jpa-3.5.4-sources.jar
+2025-08-17 16:01:47,582 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/3.5.4/spring-boot-starter-data-jpa-3.5.4-sources.jar
+2025-08-17 16:01:47,586 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-jpa:3.5.4
+2025-08-17 16:01:47,647 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/3.5.4/spring-boot-starter-jdbc-3.5.4-sources.jar
+2025-08-17 16:01:47,652 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/3.5.4/spring-boot-starter-jdbc-3.5.4-sources.jar
+2025-08-17 16:01:47,655 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-jdbc:3.5.4
+2025-08-17 16:01:47,712 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/6.3.1/HikariCP-6.3.1-sources.jar
+2025-08-17 16:01:47,735 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/6.3.1/HikariCP-6.3.1-sources.jar
+2025-08-17 16:01:47,739 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.zaxxer:HikariCP:6.3.1
+2025-08-17 16:01:47,792 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/6.2.9/spring-jdbc-6.2.9-sources.jar
+2025-08-17 16:01:47,889 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 16:01:47,889 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/6.2.9/spring-jdbc-6.2.9-sources.jar
+2025-08-17 16:01:47,893 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:6.2.9
+2025-08-17 16:01:47,916 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 16:01:47,920 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 16:01:47,939 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/orm/hibernate-core/6.6.22.Final/hibernate-core-6.6.22.Final-sources.jar
+2025-08-17 16:01:49,766 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/orm/hibernate-core/6.6.22.Final/hibernate-core-6.6.22.Final-sources.jar
+2025-08-17 16:01:49,769 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.orm:hibernate-core:6.6.22.Final
+2025-08-17 16:01:49,822 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/3.5.2/spring-data-jpa-3.5.2-sources.jar
+2025-08-17 16:01:49,970 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/3.5.2/spring-data-jpa-3.5.2-sources.jar
+2025-08-17 16:01:49,972 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-jpa:3.5.2
+2025-08-17 16:01:50,021 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/3.5.2/spring-data-commons-3.5.2-sources.jar
+2025-08-17 16:01:50,234 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/3.5.2/spring-data-commons-3.5.2-sources.jar
+2025-08-17 16:01:50,236 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-commons:3.5.2
+2025-08-17 16:01:50,290 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/6.2.9/spring-orm-6.2.9-sources.jar
+2025-08-17 16:01:50,359 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/6.2.9/spring-orm-6.2.9-sources.jar
+2025-08-17 16:01:50,361 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-orm:6.2.9
+2025-08-17 16:01:50,408 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.2.9/spring-tx-6.2.9-sources.jar
+2025-08-17 16:01:50,477 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.2.9/spring-tx-6.2.9-sources.jar
+2025-08-17 16:01:50,479 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:6.2.9
+2025-08-17 16:01:50,536 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/6.2.9/spring-aspects-6.2.9-sources.jar
+2025-08-17 16:01:50,546 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/6.2.9/spring-aspects-6.2.9-sources.jar
+2025-08-17 16:01:50,548 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aspects:6.2.9
+2025-08-17 16:01:50,614 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/9.3.0/mysql-connector-j-9.3.0-sources.jar
+2025-08-17 16:01:50,973 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/9.3.0/mysql-connector-j-9.3.0-sources.jar
+2025-08-17 16:01:50,975 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.mysql:mysql-connector-j:9.3.0
+2025-08-17 16:02:05,181 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-17 16:02:05,366 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.klef:MD-SPRINGBOOT:0.0.1-SNAPSHOT @ C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\pom.xml.
+2025-08-17 16:02:05,691 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MD-SPRINGBOOT/src/main/java
+2025-08-17 16:02:05,691 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MD-SPRINGBOOT/src/main/resources
+2025-08-17 16:02:05,692 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MD-SPRINGBOOT/src/main/resources
+2025-08-17 16:02:05,692 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MD-SPRINGBOOT/src/test/java
+2025-08-17 16:02:05,692 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MD-SPRINGBOOT/src/test/resources
+2025-08-17 16:02:06,007 [Worker-40: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MD-SPRINGBOOT
+2025-08-17 16:02:06,029 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-08-17 16:02:06,262 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 16:02:06,274 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 16:02:06,277 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 16:02:06,277 [Worker-34: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MD-SPRINGBOOT
+2025-08-17 16:02:06,277 [Worker-34: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MD-SPRINGBOOT
+2025-08-17 16:03:30,802 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 16:03:30,805 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 16:03:30,807 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 16:03:57,925 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 16:03:57,928 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 16:03:57,930 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 16:04:16,690 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 16:04:16,695 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 16:04:16,699 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 16:04:43,794 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 16:04:43,799 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 16:04:43,801 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 16:05:11,618 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 16:05:11,624 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 16:05:11,627 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 16:06:40,520 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 16:06:40,525 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 16:06:40,527 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 16:06:50,078 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 16:06:50,082 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 16:06:50,083 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 16:07:41,946 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.klef:MD-SPRINGBOOT:0.0.1-SNAPSHOT @ C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\pom.xml.
+2025-08-17 16:07:42,406 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 16:07:42,406 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 16:07:42,409 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 16:07:42,410 [Worker-40: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MD-SPRINGBOOT
+2025-08-17 16:07:42,410 [Worker-40: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MD-SPRINGBOOT
+2025-08-17 16:07:59,431 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-17 16:07:59,598 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.klef:MD-SPRINGBOOT:0.0.1-SNAPSHOT @ C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\pom.xml.
+2025-08-17 16:07:59,866 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MD-SPRINGBOOT/src/main/java
+2025-08-17 16:07:59,867 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MD-SPRINGBOOT/src/main/resources
+2025-08-17 16:07:59,867 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MD-SPRINGBOOT/src/main/resources
+2025-08-17 16:07:59,867 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MD-SPRINGBOOT/src/test/java
+2025-08-17 16:07:59,867 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MD-SPRINGBOOT/src/test/resources
+2025-08-17 16:08:00,178 [Worker-40: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MD-SPRINGBOOT
+2025-08-17 16:08:00,204 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-08-17 16:08:00,485 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 16:08:00,501 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 16:08:00,504 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 16:08:00,505 [Worker-43: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MD-SPRINGBOOT
+2025-08-17 16:08:00,505 [Worker-43: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MD-SPRINGBOOT
+2025-08-17 16:11:19,024 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 16:11:19,036 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 16:11:19,037 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 16:23:24,333 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 16:23:24,341 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 16:23:24,343 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 16:47:01,708 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 16:47:01,714 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 16:47:01,715 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 16:51:00,507 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 16:51:00,517 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 16:51:00,520 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 16:53:18,939 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 16:53:18,946 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 16:53:18,948 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 17:00:43,437 [Worker-78: Launching MD-SPRINGBOOT - MdSpringbootApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 17:00:43,444 [Worker-78: Launching MD-SPRINGBOOT - MdSpringbootApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 17:00:43,446 [Worker-78: Launching MD-SPRINGBOOT - MdSpringbootApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 17:03:54,003 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 17:03:54,031 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 17:03:54,033 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 17:16:28,935 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-08-17 17:17:09,669 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-08-17 17:17:20,076 [Worker-29: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.klef:MD-SPRINGBOOT:0.0.1-SNAPSHOT @ C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\pom.xml.
+2025-08-17 17:17:20,701 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 17:17:20,747 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 17:17:20,757 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 17:17:23,114 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 17:17:23,118 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 17:17:23,122 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 17:20:43,238 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-08-17 17:22:52,339 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.klef:MD-SPRINGBOOT:0.0.1-SNAPSHOT @ C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\pom.xml.
+2025-08-17 17:22:53,374 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 17:22:53,388 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 17:22:53,393 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 17:22:53,395 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MD-SPRINGBOOT
+2025-08-17 17:22:53,395 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MD-SPRINGBOOT
+2025-08-17 17:22:54,876 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 17:22:54,886 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 17:22:54,890 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 17:23:17,508 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-17 17:23:17,707 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.klef:MD-SPRINGBOOT:0.0.1-SNAPSHOT @ C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\pom.xml.
+2025-08-17 17:23:18,537 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MD-SPRINGBOOT/src/main/java
+2025-08-17 17:23:18,539 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MD-SPRINGBOOT/src/main/resources
+2025-08-17 17:23:18,540 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MD-SPRINGBOOT/src/main/resources
+2025-08-17 17:23:18,541 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MD-SPRINGBOOT/src/test/java
+2025-08-17 17:23:18,542 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MD-SPRINGBOOT/src/test/resources
+2025-08-17 17:23:18,962 [Worker-8: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MD-SPRINGBOOT
+2025-08-17 17:23:18,978 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-08-17 17:23:19,251 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 17:23:19,262 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 17:23:19,265 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
+2025-08-17 17:23:19,266 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MD-SPRINGBOOT
+2025-08-17 17:23:19,266 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MD-SPRINGBOOT
