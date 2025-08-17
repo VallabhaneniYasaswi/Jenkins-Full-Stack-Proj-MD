@@ -1,15 +1,36 @@
+import React from "react";
+import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import "./components/style.css";
 import MedicineManager from "./components/MedicineManager";
 
-function App() {
-
+const App = () => {
   return (
-    <>
-    <MedicineManager/>
-    </>
-  )
-}
+    <Router>
+      <div>
+        {/* Navbar */}
+        <nav className="navbar">
+          <div className="navbar-logo">💊 Medicine Store</div>
+          <ul className="navbar-links">
+            <li><Link to="/">Home</Link></li>
+            <li><Link to="/medicines">Medicines</Link></li>
+            {/* Later add -> Suppliers, Customers, Billing */}
+          </ul>
+        </nav>
 
-export default App
+        {/* Routes */}
+        <div className="content">
+          <Routes>
+            <Route path="/" element={<h2>Welcome to Medicine Store Management System</h2>} />
+            <Route path="/medicines" element={<MedicineManager/>} />
+          </Routes>
+        </div>
+      </div>
+    </Router>
+  );
+};
+
+export default App;
+
 
 
 
