@@ -267,3 +267,6 @@
 2025-08-17 20:28:05,618 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
 2025-08-17 20:28:05,618 [Worker-36: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MD-SPRINGBOOT
 2025-08-17 20:28:05,618 [Worker-36: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MD-SPRINGBOOT
+2025-08-17 20:35:06,443 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-17 20:35:06,448 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-17 20:35:06,450 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MD-Jenkins\MD-FullStack\MD-SPRINGBOOT\src\test\resources
