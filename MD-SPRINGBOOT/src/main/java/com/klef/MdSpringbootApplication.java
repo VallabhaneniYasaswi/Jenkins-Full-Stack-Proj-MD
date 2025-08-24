@@ -7,11 +7,11 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 
 @SpringBootApplication
 public class MdSpringbootApplication extends SpringBootServletInitializer {
-
-    @Override
-    protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-        return application.sources(MdSpringbootApplication.class);
-    }
+//
+//    @Override
+//    protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
+//        return application.sources(MdSpringbootApplication.class);
+//    }
 
     public static void main(String[] args) {
         SpringApplication.run(MdSpringbootApplication.class, args);
